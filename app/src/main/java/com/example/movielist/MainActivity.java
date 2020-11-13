@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         arrayList.add(new movie("3 idiots","8.4 IMDB","Comedy"));
         arrayList.add(new movie("Raees","6.8 IMDB","Crime"));
         arrayList.add(new movie("Baaghi 3","2.1 IMDB","Action"));
-        arrayList.add(new movie("Phir Hera Pheri","6.9 IMDB","Comedy"));
+        arrayList.add(new movie("Hera Pheri","6.9 IMDB","Comedy"));
 
         adapterList = new CustomAdapterList(arrayList);
 
