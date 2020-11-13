@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     private ListView listView;
     private ArrayList<movie> arrayList;
+    private CustomAdapterList adapterList;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
